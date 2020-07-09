@@ -1,3 +1,4 @@
+//https://www.spoj.com/problems/MPOW/ Solution to the problem
 #define rep(i,n) for(int i = 0; i < n; i++) 
 #define rep1(i,n) for(int i = 1; i <= n; i++)
 #include<vector>
